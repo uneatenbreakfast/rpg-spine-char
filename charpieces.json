@@ -1,0 +1,40 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"Layer 0","bone":"root","attachment":"Layer 0"},
+	{"name":"Layer 14","bone":"root","attachment":"Layer 14"},
+	{"name":"Layer 13","bone":"root","attachment":"Layer 13"},
+	{"name":"Layer 12","bone":"root","attachment":"Layer 12"},
+	{"name":"Layer 11","bone":"root","attachment":"Layer 11"},
+	{"name":"Layer 10","bone":"root","attachment":"Layer 10"},
+	{"name":"Layer 9","bone":"root","attachment":"Layer 9"},
+	{"name":"Layer 8","bone":"root","attachment":"Layer 8"},
+	{"name":"Layer 7","bone":"root","attachment":"Layer 7"},
+	{"name":"Layer 6","bone":"root","attachment":"Layer 6"},
+	{"name":"Layer 5","bone":"root","attachment":"Layer 5"},
+	{"name":"Layer 4","bone":"root","attachment":"Layer 4"},
+	{"name":"Layer 3","bone":"root","attachment":"Layer 3"},
+	{"name":"Layer 2","bone":"root","attachment":"Layer 2"},
+	{"name":"Layer 1","bone":"root","attachment":"Layer 1"}
+],
+"skins":{
+	"default":{
+		"Layer 1":{"Layer 1":{"x":210.5,"y":753,"width":105,"height":126}},
+		"Layer 2":{"Layer 2":{"x":69,"y":658.5,"width":56,"height":95}},
+		"Layer 3":{"Layer 3":{"x":346,"y":668,"width":44,"height":98}},
+		"Layer 4":{"Layer 4":{"x":193,"y":563,"width":100,"height":194}},
+		"Layer 5":{"Layer 5":{"x":68.5,"y":516.5,"width":79,"height":119}},
+		"Layer 6":{"Layer 6":{"x":374,"y":500.5,"width":88,"height":103}},
+		"Layer 7":{"Layer 7":{"x":70.5,"y":367,"width":83,"height":110}},
+		"Layer 8":{"Layer 8":{"x":171,"y":400,"width":56,"height":98}},
+		"Layer 9":{"Layer 9":{"x":321.5,"y":381.5,"width":93,"height":81}},
+		"Layer 10":{"Layer 10":{"x":129,"y":259.5,"width":86,"height":71}},
+		"Layer 11":{"Layer 11":{"x":346,"y":249.5,"width":78,"height":91}},
+		"Layer 12":{"Layer 12":{"x":68,"y":112,"width":104,"height":154}},
+		"Layer 13":{"Layer 13":{"x":212.5,"y":131,"width":129,"height":150}},
+		"Layer 14":{"Layer 14":{"x":374.5,"y":137,"width":103,"height":104}},
+		"Layer 0":{"Layer 0":{"x":313.5,"y":35,"width":171,"height":46}}
+	}
+},
+"animations":{"animation":{}}
+}
